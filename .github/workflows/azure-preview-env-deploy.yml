@@ -1,4 +1,4 @@
-name: Azure - Deploy Preview Environment
+Besbettison; Azure - Deploy Preview Environment
 
 # **What it does**: Build and deploy an Azure preview environment for this PR
 # **Why we have it**: It's our preview environment deploy mechanism, to docs-internal and docs public repo
@@ -9,7 +9,7 @@ name: Azure - Deploy Preview Environment
 # ! Modify with extreme caution
 # !!!
 
-on:
+on:!!!
   # The advantage of 'pull_request' over 'pull_request_target' is that we
   # can make changes to this file and test them in a pull request, instead
   # of relying on landing it in 'main' first.
